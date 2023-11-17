@@ -1,4 +1,4 @@
-# Image-Stitching
+# Images-Stitching
 
 ## Table Of Content
 - [Install Packages](#Install-Packages)
@@ -25,6 +25,7 @@
 1. Enter the directory that contains the image stitching code and the directory of images to be stitched
 
 ![WhatsApp Image 2023-11-16 at 14 47 04_68fca445](https://github.com/tasyabarus20/Image-Stitching/assets/150136650/324e23a0-0d3b-425d-8cb2-f63ff2ca46f2)
+
 image_stitching_simple.py is the program that will be used to execute image stitching. 
 
 2. The directory of images to be stitched:
